@@ -1,0 +1,30 @@
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.deps.json
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.runtimeconfig.json
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.runtimeconfig.dev.json
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.dll
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.csprojAssemblyReference.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.csproj.CoreCompileInputs.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.RazorAssemblyInfo.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.RazorAssemblyInfo.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.AssemblyInfoInputs.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.AssemblyInfo.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.TagHelpers.input.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.TagHelpers.output.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.RazorCoreGenerate.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.RazorTargetAssemblyInfo.cache
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.RazorTargetAssemblyInfo.cs
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.pdb
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.Views.dll
+D:\Code Repository\IdentityServer Auth\bin\Debug\netcoreapp2.2\IdentityServer Auth.Views.pdb
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.Views.pdb
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.dll
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.pdb
+D:\Code Repository\IdentityServer Auth\obj\Debug\netcoreapp2.2\IdentityServer Auth.csproj.CopyComplete
